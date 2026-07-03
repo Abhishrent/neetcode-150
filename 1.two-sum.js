@@ -20,6 +20,6 @@ var twoSum = function(nums, target) {
             myMap.set(nums[i], i)
         }
     }
-};
+}; 
 // @lc code=end
 
